@@ -1,0 +1,1 @@
+Ao usar apenas num=10 a variável ''num'' estará recebendo o valor 10, para fazer uma comparação o correto é usar dois sinais de igual, sendo assim (num==10)
